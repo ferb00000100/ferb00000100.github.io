@@ -6,3 +6,27 @@ h1 {
 h2 {
     color: red;
 }
+
+img {
+    height: 800px;
+    width: 400px;
+}
+
+.format-header {
+    margin: 0 auto;
+    width: 800px;
+    /*border-style: solid;*/
+    /*border-color: black;*/
+}
+.title {
+    /*border-style: solid;*/
+    /*border-color: black;*/
+    margin: 0 auto;
+}
+article{
+    height: 800px;
+    width: 400px;
+    /*border-style: solid;*/
+    /*border-color: black;*/
+    margin: 0 auto;
+}
